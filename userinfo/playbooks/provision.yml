@@ -1,7 +1,6 @@
 ---
 - name: Create OpenStack Instances
   hosts: localhost
-  connection: local
   gather_facts: false
   vars:
     guid: "{{ lookup('env','GUID') }}"
