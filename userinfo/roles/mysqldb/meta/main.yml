@@ -1,6 +1,6 @@
 galaxy_info:
   role_name: mysqldb
-  namespace: mycollections.threetierapp
+  namespace: mitzidotcom.userinfo
   author: Team PFE
   description: Molecule demo common role
   company: Red Hat

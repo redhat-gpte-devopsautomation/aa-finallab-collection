@@ -1,5 +1,5 @@
-namespace: mycollections
-name: threetierapp
+namespace: mitzidotcom
+name: userinfo
 version: 1.0.0
 readme: README.md
 authors:
@@ -10,7 +10,7 @@ license:
 tags:
   - three_tier_app
 dependencies: {}
-repository: http://bastion.example.com:5050/mycollections
-documentation: http://bastion.example.com:5050/mycollections/README.md
+repository: http://bastion.example.com:5050/mitzidotcom
+documentation: http://bastion.example.com:5050/mitzidotcom/README.md
 homepage: http://bastion.example.com
 issues: http://example.com/issue/tracker
