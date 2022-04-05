@@ -1,3 +1,3 @@
-# Ansible Collection - mycollections.threetierapp
+# Ansible Collection - mitzidotcom.userinfo
 
 Documentation for the collection.
