@@ -12,6 +12,7 @@
       openstack.cloud.server:
         name: "{{ item.name }}"
         image: "{{ item.image }}"
+        config_drive: True
         key_name: "{{ item.keypair }}"
         flavor: "{{ item.flavor }}"
         security_groups: "{{ item.security_group }}"
